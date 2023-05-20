@@ -1,4 +1,5 @@
-# Project_TTCS
+# Project_TTCS: 
+## Trang web ReactJS sử dụng BE kết nối CSDL MySQL tích hợp rasa chatbot về giải thuật toán BFS, UCS và trả lời các câu hỏi liên quan đến 2 thuật toán này
 
 Project bao gồm 3 phần:
 + Giao diện react.js
