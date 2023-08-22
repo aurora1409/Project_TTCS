@@ -4,7 +4,7 @@
 Project bao gồm 3 phần:
 + Giao diện react.js
 + Back-end Java Spring Boot
-+ Chatbot Rasa 
++ Chatbot Rasa - 3.5.4
 
 ### Chạy project:
 1. Chạy back-end ở "D:\Data PTIT\ProjTTCS\spring-jdbc\src\main\java\com\example\springjdbc\Products"
