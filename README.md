@@ -19,7 +19,7 @@ Project bao gồm 3 phần:
   + rasa shell nlu: test nlu trên terminal
   + rasa train --force: train all dữ liệu lại từ đầu
 4. Chạy React.js:
-  + npm i: Tải node-modules về
+  + npm i: Tải node-modules về (hoặc npm install --force nếu lệnh kia lỗi)
   + npm start: Chạy app
 
 Lưu ý: Chạy các lệnh trên các terminal khác nhau
